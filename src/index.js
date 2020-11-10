@@ -4,8 +4,7 @@
       import ReactDOM from 'react-dom';
       import logo from './simboloCovid.jpg';
       import './App.css';
-      import M from 'materialize-css'
-      import { Col, Container, Row, Select} from 'react-materialize';
+      import { Col, Row} from 'react-materialize';
 
 
     function Teste(){
